@@ -7,12 +7,14 @@
   <img src="https://img.shields.io/badge/@CheongJaeyun-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
 </div>
 
-👋 Hi there! I'm iOS Developer 🚀
+<br />
 
-I love coffee ☕️. 
-I like to meet and talk to people.
-I enjoy playing tennis and taking a photo 📸.
-I hope to develop every beautiful things ✨.
+👋 Hi there! I'm iOS Developer 🚀 
+
+I love coffee ☕️. <br />
+I like to meet and talk to people.  <br />
+I enjoy playing tennis and taking a photo 📸.  <br />
+I hope to develop every beautiful things ✨. <br />
 
 
 ## 💪 Skills
@@ -21,7 +23,6 @@ I hope to develop every beautiful things ✨.
 <div style={ display: flex; flex-direction: row; }>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
 
 <div style={ display: flex; flex-direction: row; }>
