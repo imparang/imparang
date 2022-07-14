@@ -36,9 +36,9 @@ I enjoy playing tennis and taking a photo 📸.  <br />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
 
+<br />
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imparang)](https://github.com/imparang/github-readme-stats)
 
 
 
