@@ -12,9 +12,8 @@
 👋 Hi there! I'm iOS Developer 🚀 
 
 I love coffee ☕️. <br />
-I like to meet and talk to people.  <br />
+I like to meet and talk to people ✨.  <br />
 I enjoy playing tennis and taking a photo 📸.  <br />
-I hope to develop every beautiful things ✨. <br />
 
 
 ## 💪 Skills
