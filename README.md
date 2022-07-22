@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 <div style={ display: flex; flex-direction: row; }>
-  <img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Medium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jeongjaeyn@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JaeyunCheong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/@CheongJaeyun-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+  <a href="https://medium.com/@jeongjaeyn" >
+    <img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Medium&logoColor=white"/>  
+  </a>
+  <a href="mailto:jeongjaeyn@gmail.com" >
+    <img src="https://img.shields.io/badge/jeongjaeyn@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jae-yun-cheong-47710922b/" >
+    <img src="https://img.shields.io/badge/JaeyunCheong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>  
+  </a>
+  <a href="https://twitter.com/CheongJaeyun" >
+    <img src="https://img.shields.io/badge/@CheongJaeyun-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+  </a>
 </div>
 
 <br />
