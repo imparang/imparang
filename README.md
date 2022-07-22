@@ -22,6 +22,7 @@ I enjoy playing tennis and taking a photo 📸.  <br />
 <div style={ display: flex; flex-direction: row; }>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
 
 <div style={ display: flex; flex-direction: row; }>
